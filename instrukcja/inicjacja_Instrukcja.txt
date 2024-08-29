@@ -1,0 +1,23 @@
+npm create vito@lastest
+
+tworzenie nowego projektu i potem ustalamy nazwe projektu
+
+cd .\ do nowego folderu trzeba przejsc
+
+npm install
+
+npm run dev
+
+pokaże nam pod jakim adresem na stronie się hostuje nasza strona 
+
+Jak zamkniemy to nam się nie odpali to musimy
+
+
+przechodzimy do katalogu z naszum projektem 
+
+cd testowy-projekt
+
+npm run dev 
+
+opdala nam na nowo serwer i możemy zobaczyć strone
+
