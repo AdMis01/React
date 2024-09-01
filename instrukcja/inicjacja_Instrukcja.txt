@@ -1,4 +1,5 @@
-npm create vito@lastest
+
+npm create vite@latest
 
 tworzenie nowego projektu i potem ustalamy nazwe projektu
 
@@ -20,4 +21,14 @@ cd testowy-projekt
 npm run dev 
 
 opdala nam na nowo serwer i możemy zobaczyć strone
+
+#Drugi sposob instalacji 
+
+npx create-react-app folder
+
+cd folder
+
+npm start
+
+
 
