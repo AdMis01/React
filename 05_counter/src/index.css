@@ -1,0 +1,28 @@
+.container{
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.display-count{
+  font-size: 10em;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+button{
+  width: 150px;
+  height: 50px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0 5px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: hsl(199, 54%, 44%);
+}
+
+button:hover{
+  background-color: hsl(199, 54%, 54%);
+
+}
