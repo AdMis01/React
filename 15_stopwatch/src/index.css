@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 5rem;
+  font-family: monospace;
+  
+}
+
+.stopwatch{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button{
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  margin: 5px;
+  min-width: 125px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
